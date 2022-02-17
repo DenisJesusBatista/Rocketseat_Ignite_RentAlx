@@ -1,5 +1,5 @@
 import { Router } from 'express';
-import { v4 as uuidV4 } from 'uuid';
+import { v4 as uui } from 'uuid';
 
 import { Category } from '../model/Category';
 
